@@ -3,7 +3,7 @@
 #include <algorithm>
 
 int main() {
-	// 'B' > 'F' > 'R' > 'L'
+	// 'B' > 'F' , 'R' > 'L'
 	freopen("5.txt", "r", stdin);
 	std::vector <std::string> seats;
 
